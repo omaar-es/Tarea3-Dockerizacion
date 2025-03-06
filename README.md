@@ -160,6 +160,13 @@ Luego, cierra sesión y vuelve a iniciarla para que los cambios surtan efecto.
 5. Haz push a la rama (`git push origin feature/amazing-feature`)
 6. Abre un Pull Request
 
+##Capturas del funcionamiento
+1. Login funcionando
+![image](https://github.com/user-attachments/assets/7cd18bff-b88f-40e6-9843-3c582602dd60)
+2. Menu principal
+![image](https://github.com/user-attachments/assets/febb7a6d-e05a-4a2d-b8f6-920d08cf43ca)
+
+
 ## Licencia
 
 Este proyecto está licenciado bajo [MIT License](LICENSE).
